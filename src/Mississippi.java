@@ -1,4 +1,10 @@
-
+/* Grading Notes
+25/25 points
+Good job!
+Notes: In general, method names should follow camel case starting with a lower-case letter. For example, letterM .
+No points were deducted for the method names as this is just a stylistic preference.
+-Mrs. Gilliam
+*/
 public class Mississippi {
     public static void M() {
 		System.out.println("M     M");
